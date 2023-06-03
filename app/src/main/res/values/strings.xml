@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hex Pipes</string>
+
+    <string name="add_button">Add</string>
+    <string name="rm_button">Remove</string>
+    <string name="lock_descr">Lock</string>
+    <string name="star_descr">Rate app</string>
+    <string name="locked_descr">Locked</string>
+</resources>

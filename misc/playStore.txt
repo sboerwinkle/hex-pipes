@@ -1,0 +1,11 @@
+Description
+===========
+
+Tiny, casual puzzler about rotating pipes
+
+Full Description
+================
+
+A tiny, casual puzzler about rotating pipes. No ads!
+
+You can also choose to lock the app for up to 24 hours, if you need to enforce a break from over-simplified fluid mechanics.
